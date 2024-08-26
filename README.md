@@ -4,9 +4,14 @@ TP réalisé dans le cadre d'un cours sur l'automatisation de test unitaire
 Le site www.demoqa.com met à disposition plusieurs modules qui visent à être testé de manière manuelle ou automatique.<br/>
 Le but est ici d'automatiser les différents modules de ce site avec selenium et pytest. 
 
-  - Utilisation du DOM
+  - Utilisation du DOM (id, class, css_selector, xpath...)
   - Création de fonctions d'automatisation
-  - mise en place d'assert afin de valider ou invalider nos tests   
+  - mise en place d'assert afin de valider ou invalider nos tests
+
+Voici le code Python utilisé pour automatiser les test:
+  - Formulaire
+  - Checkbox
+  - 
 
 
 ![](img/screen.gif)
