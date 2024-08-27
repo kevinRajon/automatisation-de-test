@@ -8,10 +8,11 @@ Le but est ici d'automatiser les différents modules de ce site avec selenium et
   - Création de fonctions d'automatisation
   - mise en place d'assert afin de valider ou invalider nos tests
 
-Voici le code Python utilisé pour automatiser les test:
-  - Formulaire
-  - Checkbox
-  - 
+Voici le code Python utilisé pour automatiser les test sur les différents modules:
+  - [Code python pour le Formulaire](code/test_textbox.py)
+  - [Code python pour les Checkbox](code/test_checkbox.py)
+  - [Code python pour les Radios](code/test_yesradio.py)
+  - [Code python pour le Webtables](code/test_webtables.py) 
 
 
 ![](img/screen.gif)
