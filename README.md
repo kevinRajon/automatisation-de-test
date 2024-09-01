@@ -1,7 +1,7 @@
 TP réalisé dans le cadre d'un cours sur l'automatisation de test unitaire
 # Automatisation selenium/pytest
 
-Le site www.demoqa.com met à disposition plusieurs modules qui visent à être testés de manière manuelle ou automatique.<br/>
+Le site www.demoqa.com met à disposition plusieurs modules qui visent à être testés de manière manuelle ou automatisée.<br/>
 Le but est ici d'automatiser les différents modules de ce site avec **Selenium** et **Pytest**. 
 
   - Utilisation du DOM (id, class, css_selector, xpath...)
